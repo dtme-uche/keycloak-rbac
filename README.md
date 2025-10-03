@@ -121,5 +121,5 @@ Visit 👉 http://localhost:3000
 [keycloak-connect (NPM)](https://www.npmjs.com/package/keycloak-connect)
 
 ✨ Author
-### Francis Uche ([@dtme-uche](https://github.com/dtme-uche))
+Francis Uche ([@dtme-uche](https://github.com/dtme-uche))  
 🚀 Building secure and scalable Node.js applications with Keycloak
