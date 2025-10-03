@@ -1,0 +1,12 @@
+{
+  "realm": "Platview-realm",
+  "auth-server-url": "http://localhost:8080/",
+  "ssl-required": "external",
+  "resource": "my-node-client",
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "7jiRLH9HH4HkEiw3g4px2Up7T33KyzTS"
+  },
+  "confidential-port": 0
+}
+
